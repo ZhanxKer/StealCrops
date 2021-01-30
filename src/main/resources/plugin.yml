@@ -1,0 +1,8 @@
+name: StealCrops
+main: com.entiv.stealcrops.Main
+version: 1.0
+
+commands:
+  StealCrops:
+    description: 偷菜指令
+    aliases: [StealCrop]
