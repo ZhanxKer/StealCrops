@@ -39,7 +39,7 @@ public abstract class StealCropsManager {
     }
 
     int getConfigAge() {
-        return Main.getInstance().getConfig().getInt("偷菜后的作物年龄");
+        return Main.getInstance().getConfig().getInt("偷菜后的作物成熟度");
     }
 
     double getConfigChange() {
